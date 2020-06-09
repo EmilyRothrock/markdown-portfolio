@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[Blueberry Pear Smoothie Recipe](https://natashaskitchen.com/blueberry-pear-smoothie-recipe/)
