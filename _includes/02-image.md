@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Google logo](https://www.google.com/logos/doodles/2015/googles-new-logo-5078286822539264.3-hp2x.gif)
